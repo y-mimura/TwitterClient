@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		976487332217D275006EE10C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 976487322217D275006EE10C /* AppDelegate.swift */; };
-		976487352217D275006EE10C /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 976487342217D275006EE10C /* ViewController.swift */; };
 		976487382217D275006EE10C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 976487362217D275006EE10C /* Main.storyboard */; };
 		9764873A2217D275006EE10C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 976487392217D275006EE10C /* Assets.xcassets */; };
 		9764873D2217D275006EE10C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9764873B2217D275006EE10C /* LaunchScreen.storyboard */; };
@@ -22,7 +21,6 @@
 /* Begin PBXFileReference section */
 		9764872F2217D275006EE10C /* TwitterClient.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TwitterClient.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		976487322217D275006EE10C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		976487342217D275006EE10C /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		976487372217D275006EE10C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		976487392217D275006EE10C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9764873C2217D275006EE10C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -68,7 +66,6 @@
 				976487502217E280006EE10C /* Constants */,
 				9764874D2217E099006EE10C /* Timeline */,
 				976487322217D275006EE10C /* AppDelegate.swift */,
-				976487342217D275006EE10C /* ViewController.swift */,
 				976487362217D275006EE10C /* Main.storyboard */,
 				976487392217D275006EE10C /* Assets.xcassets */,
 				9764873B2217D275006EE10C /* LaunchScreen.storyboard */,
@@ -175,7 +172,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				976487522217E294006EE10C /* Constants.swift in Sources */,
-				976487352217D275006EE10C /* ViewController.swift in Sources */,
 				976487552217E45A006EE10C /* User.swift in Sources */,
 				976487572217E4DD006EE10C /* Tweet.swift in Sources */,
 				976487332217D275006EE10C /* AppDelegate.swift in Sources */,
