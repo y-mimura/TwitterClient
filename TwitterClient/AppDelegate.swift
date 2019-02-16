@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  TwitterClient
 //
-//  Created by 三村裕矢 on 2019/02/16.
+//  Created by y-mimura on 2019/02/16.
 //  Copyright © 2019 Yuya Mimura. All rights reserved.
 //
 
